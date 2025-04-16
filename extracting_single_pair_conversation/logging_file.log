@@ -1,0 +1,143 @@
+2025-04-16 09:16:58,302this cell data type has been detected as a float 1.0,type:<class 'float'>
+2025-04-16 09:16:58,302this cell data type has been detected as a float 4.0,type:<class 'float'>
+2025-04-16 09:16:58,302this cell data type has been detected as a float 6.0,type:<class 'float'>
+2025-04-16 09:16:58,302the twitter id being considered is: 8
+2025-04-16 09:16:58,302this cell data type has been detected as a float 15.0,type:<class 'float'>
+2025-04-16 09:16:58,302this cell data type has been detected as a float 17.0,type:<class 'float'>
+2025-04-16 09:16:58,302the twitter id being considered is: 18
+2025-04-16 09:16:58,302the response twitter to be searched is: ['17']
+2025-04-16 09:17:37,752the twitter id being considered is: 20
+2025-04-16 09:17:37,753the response twitter to be searched is: ['19']
+2025-04-16 09:18:17,475this cell data type has been detected as a float 21.0,type:<class 'float'>
+2025-04-16 09:18:17,476this cell data type has been detected as a float 25.0,type:<class 'float'>
+2025-04-16 09:18:17,476this cell data type has been detected as a float 21.0,type:<class 'float'>
+2025-04-16 09:18:17,476this cell data type has been detected as a float 28.0,type:<class 'float'>
+2025-04-16 09:18:17,476the twitter id being considered is: 29
+2025-04-16 09:18:17,476the response twitter to be searched is: ['28']
+2025-04-16 09:18:57,240the twitter id being considered is: 31
+2025-04-16 09:18:57,241the response twitter to be searched is: ['30']
+2025-04-16 09:19:36,447the twitter id being considered is: 33
+2025-04-16 09:19:36,450the response twitter to be searched is: ['32']
+2025-04-16 09:20:16,092this cell data type has been detected as a float 34.0,type:<class 'float'>
+2025-04-16 09:20:16,094the twitter id being considered is: 36
+2025-04-16 09:20:16,094the response twitter to be searched is: ['34']
+2025-04-16 09:20:55,452the twitter id being considered is: 39
+2025-04-16 09:20:55,453the response twitter to be searched is: ['38']
+2025-04-16 09:21:34,573this cell data type has been detected as a float 40.0,type:<class 'float'>
+2025-04-16 09:21:34,575this cell data type has been detected as a float 43.0,type:<class 'float'>
+2025-04-16 09:21:34,575this cell data type has been detected as a float 46.0,type:<class 'float'>
+2025-04-16 09:21:34,575this cell data type has been detected as a float 47.0,type:<class 'float'>
+2025-04-16 09:21:34,575this cell data type has been detected as a float 48.0,type:<class 'float'>
+2025-04-16 09:21:34,575this cell data type has been detected as a float 49.0,type:<class 'float'>
+2025-04-16 09:21:34,575the twitter id being considered is: 49
+2025-04-16 09:21:34,575the response twitter to be searched is: ['48']
+2025-04-16 09:22:14,234this cell data type has been detected as a float 52.0,type:<class 'float'>
+2025-04-16 09:22:14,237this cell data type has been detected as a float 54.0,type:<class 'float'>
+2025-04-16 09:22:14,237this cell data type has been detected as a float 56.0,type:<class 'float'>
+2025-04-16 09:22:14,237this cell data type has been detected as a float 58.0,type:<class 'float'>
+2025-04-16 09:22:14,237the twitter id being considered is: 59
+2025-04-16 09:22:14,237the response twitter to be searched is: ['58']
+2025-04-16 09:22:53,794the twitter id being considered is: 61
+2025-04-16 09:22:53,796the response twitter to be searched is: ['60']
+2025-04-16 09:23:33,527the twitter id being considered is: 63
+2025-04-16 09:23:33,529the response twitter to be searched is: ['62']
+2025-04-16 09:24:12,701this cell data type has been detected as a float 64.0,type:<class 'float'>
+2025-04-16 09:24:12,703the twitter id being considered is: 66
+2025-04-16 09:24:12,703the twitter id being considered is: 69
+2025-04-16 09:24:12,703the response twitter to be searched is: ['68']
+2025-04-16 09:24:52,332the twitter id being considered is: 71
+2025-04-16 09:24:52,334this cell data type has been detected as a float 75.0,type:<class 'float'>
+2025-04-16 09:24:52,334the twitter id being considered is: 76
+2025-04-16 09:24:52,335the response twitter to be searched is: ['75']
+2025-04-16 09:25:31,927the twitter id being considered is: 78
+2025-04-16 09:25:31,931the response twitter to be searched is: ['77']
+2025-04-16 09:26:11,941this cell data type has been detected as a float 81.0,type:<class 'float'>
+2025-04-16 09:26:11,943the twitter id being considered is: 153
+2025-04-16 09:26:11,943the response twitter to be searched is: ['152']
+2025-04-16 09:26:51,910this cell data type has been detected as a float 156.0,type:<class 'float'>
+2025-04-16 09:26:51,913the twitter id being considered is: 156
+2025-04-16 09:26:51,913the twitter id being considered is: 159
+2025-04-16 09:26:51,913the response twitter to be searched is: ['158']
+2025-04-16 09:27:31,873this cell data type has been detected as a float 162.0,type:<class 'float'>
+2025-04-16 09:27:31,876the twitter id being considered is: 163
+2025-04-16 09:27:31,876the response twitter to be searched is: ['162']
+2025-04-16 09:28:12,033the twitter id being considered is: 165
+2025-04-16 09:28:12,034the response twitter to be searched is: ['164']
+2025-04-16 09:28:51,457the twitter id being considered is: 167
+2025-04-16 09:28:51,458the response twitter to be searched is: ['166']
+2025-04-16 09:29:31,221the twitter id being considered is: 169
+2025-04-16 09:29:31,223the response twitter to be searched is: ['168']
+2025-04-16 09:30:11,132this cell data type has been detected as a float 172.0,type:<class 'float'>
+2025-04-16 09:30:11,133this cell data type has been detected as a float 174.0,type:<class 'float'>
+2025-04-16 09:30:11,133the twitter id being considered is: 175
+2025-04-16 09:30:11,133the response twitter to be searched is: ['174']
+2025-04-16 09:30:50,613the twitter id being considered is: 177
+2025-04-16 09:30:50,615the response twitter to be searched is: ['176']
+2025-04-16 09:31:30,578this cell data type has been detected as a float 178.0,type:<class 'float'>
+2025-04-16 09:31:30,580the twitter id being considered is: 180
+2025-04-16 09:31:30,580this cell data type has been detected as a float 184.0,type:<class 'float'>
+2025-04-16 09:31:30,580the twitter id being considered is: 185
+2025-04-16 09:31:30,580the twitter id being considered is: 188
+2025-04-16 09:31:30,580the twitter id being considered is: 191
+2025-04-16 09:31:30,580the response twitter to be searched is: ['190']
+2025-04-16 09:32:10,521the twitter id being considered is: 193
+2025-04-16 09:32:10,523the response twitter to be searched is: ['192']
+2025-04-16 09:32:50,260this cell data type has been detected as a float 194.0,type:<class 'float'>
+2025-04-16 09:32:50,262this cell data type has been detected as a float 199.0,type:<class 'float'>
+2025-04-16 09:32:50,262this cell data type has been detected as a float 194.0,type:<class 'float'>
+2025-04-16 09:32:50,262this cell data type has been detected as a float 194.0,type:<class 'float'>
+2025-04-16 09:32:50,262the twitter id being considered is: 198
+2025-04-16 09:32:50,262the response twitter to be searched is: ['194']
+2025-04-16 09:33:30,120the twitter id being considered is: 202
+2025-04-16 09:33:30,124the response twitter to be searched is: ['201']
+2025-04-16 09:34:10,136this cell data type has been detected as a float 203.0,type:<class 'float'>
+2025-04-16 09:34:10,138the twitter id being considered is: 205
+2025-04-16 09:34:10,138the twitter id being considered is: 208
+2025-04-16 09:34:10,138the response twitter to be searched is: ['207']
+2025-04-16 09:34:50,012the twitter id being considered is: 210
+2025-04-16 09:34:50,014the response twitter to be searched is: ['209']
+2025-04-16 09:35:29,511this cell data type has been detected as a float 211.0,type:<class 'float'>
+2025-04-16 09:35:29,513this cell data type has been detected as a float 215.0,type:<class 'float'>
+2025-04-16 09:35:29,513the twitter id being considered is: 216
+2025-04-16 09:35:29,513the response twitter to be searched is: ['215']
+2025-04-16 09:36:08,739the twitter id being considered is: 218
+2025-04-16 09:36:08,740the response twitter to be searched is: ['217']
+2025-04-16 09:36:49,081the twitter id being considered is: 220
+2025-04-16 09:36:49,082the response twitter to be searched is: ['219']
+2025-04-16 09:37:34,765this cell data type has been detected as a float 223.0,type:<class 'float'>
+2025-04-16 09:37:34,767this cell data type has been detected as a float 224.0,type:<class 'float'>
+2025-04-16 09:37:34,767this cell data type has been detected as a float 227.0,type:<class 'float'>
+2025-04-16 09:37:34,767this cell data type has been detected as a float 229.0,type:<class 'float'>
+2025-04-16 09:37:34,767this cell data type has been detected as a float 231.0,type:<class 'float'>
+2025-04-16 09:37:34,767this cell data type has been detected as a float 234.0,type:<class 'float'>
+2025-04-16 09:37:34,767the twitter id being considered is: 234
+2025-04-16 09:37:34,767the response twitter to be searched is: ['232']
+2025-04-16 09:38:16,674this cell data type has been detected as a float 235.0,type:<class 'float'>
+2025-04-16 09:38:16,676the twitter id being considered is: 237
+2025-04-16 09:38:16,676the response twitter to be searched is: ['235']
+2025-04-16 09:38:56,212the twitter id being considered is: 239
+2025-04-16 09:38:56,214the response twitter to be searched is: ['238']
+2025-04-16 09:39:36,123this cell data type has been detected as a float 240.0,type:<class 'float'>
+2025-04-16 09:39:36,124this cell data type has been detected as a float 243.0,type:<class 'float'>
+2025-04-16 09:39:36,124this cell data type has been detected as a float 245.0,type:<class 'float'>
+2025-04-16 09:39:36,125this cell data type has been detected as a float 249.0,type:<class 'float'>
+2025-04-16 09:39:36,125the twitter id being considered is: 250
+2025-04-16 09:39:36,125the response twitter to be searched is: ['249']
+2025-04-16 09:40:16,065this cell data type has been detected as a float 251.0,type:<class 'float'>
+2025-04-16 09:40:16,067this cell data type has been detected as a float 254.0,type:<class 'float'>
+2025-04-16 09:40:16,067this cell data type has been detected as a float 256.0,type:<class 'float'>
+2025-04-16 09:40:16,067this cell data type has been detected as a float 256.0,type:<class 'float'>
+2025-04-16 09:40:16,067this cell data type has been detected as a float 259.0,type:<class 'float'>
+2025-04-16 09:40:16,067this cell data type has been detected as a float 261.0,type:<class 'float'>
+2025-04-16 09:40:16,067this cell data type has been detected as a float 263.0,type:<class 'float'>
+2025-04-16 09:40:16,067this cell data type has been detected as a float 263.0,type:<class 'float'>
+2025-04-16 09:40:16,067this cell data type has been detected as a float 264.0,type:<class 'float'>
+2025-04-16 09:40:16,067the twitter id being considered is: 253
+2025-04-16 09:40:16,068the response twitter to be searched is: ['251']
+2025-04-16 09:40:55,308this cell data type has been detected as a float 269.0,type:<class 'float'>
+2025-04-16 09:40:55,311this cell data type has been detected as a float 269.0,type:<class 'float'>
+2025-04-16 09:40:55,311this cell data type has been detected as a float 273.0,type:<class 'float'>
+2025-04-16 09:40:55,311the twitter id being considered is: 272
+2025-04-16 09:40:55,311the response twitter to be searched is: ['269']
+2025-04-16 09:41:34,767the twitter id being considered is: 277
+2025-04-16 09:41:34,769the response twitter to be searched is: ['276']
