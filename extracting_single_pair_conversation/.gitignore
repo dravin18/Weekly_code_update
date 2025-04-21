@@ -1,0 +1,10 @@
+/__pycache__/
+extracted_conversations.csv
+twcs.csv
+testing_the_results_with_iloc.csv
+testing_the_results.csv
+vectorization.py
+eda.ipynb
+extracted_conversations_from_v2_script.csv
+testing_the_results_with_iloc.csv
+testing_the_results.csv
